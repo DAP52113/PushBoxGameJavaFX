@@ -1,0 +1,2 @@
+# PushBoxGameJavaFX
+基于JavaFX框架完成的推箱子代码，基于Java二维数组进行地图构建，通过Stage的方式完成背景的渲染，同时设置Animation动画进行游戏角色胜利闯关后的跳舞动作。游戏主要包括四关，一关关完成
